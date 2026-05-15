@@ -46,6 +46,19 @@ The dataset contains Spotify music streaming data including:
 
 ---
 
+
+# Project Workflow
+
+<p align="center">
+  <img src="image.png" alt="Spotify SQL Workflow" width="100%">
+</p>
+
+<p align="center">
+  End-to-end workflow of the Spotify SQL Data Analysis Project
+</p>
+
+---
+
 # Database Schema
 
 ```sql
