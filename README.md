@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="download.png" alt="Spotify SQL Project Banner" width="100%">
+</p>
+
 # Spotify SQL Data Analysis Project
 
 ## Project Overview
