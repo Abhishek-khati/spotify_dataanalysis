@@ -401,6 +401,37 @@ Through this project, I improved my understanding of:
 - Create interactive charts
 - Perform trend analysis
 - Add views and stored procedures
+ 
+---
+
+
+# Project Screenshots
+
+## PostgreSQL Query Execution
+
+<p align="center">
+  <img src="Screenshot 2026-05-15 210423.png" width="90%">
+</p>
+
+<p align="center">
+  <img src="Screenshot 2026-05-15 210435.png" width="90%">
+</p>
+
+<p align="center">
+  <img src="Screenshot 2026-05-15 210445.png" width="90%">
+</p>
+
+<p align="center">
+  <img src="Screenshot 2026-05-15 210454.png" width="90%">
+</p>
+
+<p align="center">
+  <img src="Screenshot 2026-05-15 210506.png" width="90%">
+</p>
+
+<p align="center">
+  <img src="Screenshot 2026-05-15 210521.png" width="90%">
+</p>
 
 ---
 
